@@ -68,7 +68,6 @@ getCookie(name) {
     .catch(function (error) {
       console.log(error);
     });
-    alert(this.file.value)
   }
 
 
